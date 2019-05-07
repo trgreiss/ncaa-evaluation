@@ -1,3 +1,1 @@
-Because of the size of the data used for this project, the .RData file used in this analysis has been included in the supplementary files, rather than raw data files like CSVs.  By loading this workspace into a new RStudio session, the .Rmd files containing the actual code for the analysis can be run.
-
 paper.Rmd contains the code to generate the relevant plots, charts, and explanatory material.  supplementary.Rmd contains the code used to scrape data and tidy it.  The chunk options in this file have mostly been set not to run, since the scraping procedure takes a very long time.
